@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\xblocks\xblocks\xblocks\bin\Debug\xblocks.exe.config
+C:\Users\user\Desktop\xblocks\xblocks\xblocks\bin\Debug\xblocks.exe
+C:\Users\user\Desktop\xblocks\xblocks\xblocks\bin\Debug\xblocks.pdb
+C:\Users\user\Desktop\xblocks\xblocks\xblocks\obj\Debug\期末.csprojAssemblyReference.cache
+C:\Users\user\Desktop\xblocks\xblocks\xblocks\obj\Debug\xblocks.Form1.resources
+C:\Users\user\Desktop\xblocks\xblocks\xblocks\obj\Debug\xblocks.Properties.Resources.resources
+C:\Users\user\Desktop\xblocks\xblocks\xblocks\obj\Debug\期末.csproj.GenerateResource.cache
+C:\Users\user\Desktop\xblocks\xblocks\xblocks\obj\Debug\期末.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\xblocks\xblocks\xblocks\obj\Debug\xblocks.exe
+C:\Users\user\Desktop\xblocks\xblocks\xblocks\obj\Debug\xblocks.pdb
